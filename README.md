@@ -3,7 +3,7 @@
   <img src="https://i.imgur.com/XUrPife.gif" width="120px" alt="Eye Animation" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Still%20a%20student,%20already%20a%10builder!&center=true&size=20&color=007ACC&pause=1000" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Still%20a%20student,%20already%20builder!&center=true&size=20&color=007ACC&pause=1000" alt="Typing Animation" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Ayush Priyadarshi</h1>
