@@ -1,6 +1,7 @@
 <!-- Section: Header with Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+World%21+I%27m+Ayush+Priyadarshi;Building+Dreams+with+Code+%F0%9F%92%BB;Passionate+about+AI+%26+Full+Stack;Let%27s+Connect%21+%F0%9F%91%8B¢er=true&size=32&color=0,0,128&bold=true&width=500&height=100" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+World%21+I%27m+Ayush+Priyadarshi;Building+Dreams+with+Code+%F0%9F%92%BB;Passionate+about+AI+%26+Full+Stack;Let%27s+Connect%21+%F0%9F%91%8B&center=true&size=32&color=0,0,128&bold=true&width=500&height=100" alt="Typing Animation" />
+
 </p>
 
 <!-- Section: Introduction & About Me -->
