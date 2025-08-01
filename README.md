@@ -1,6 +1,6 @@
 <!-- Eye Opening Animation (GIF) -->
 <p align="center">
-  <img src="https://i.imgur.com/yRR1zR3.gif" width="120px" alt="Eye Animation" />
+  <img src="https://i.imgur.com/XUrPife.gif" width="120px" alt="Eye Animation" />
 </p>
 <!-- Typing Animation -->
 <p align="center">
