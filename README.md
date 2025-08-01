@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Ayush&center=true&size=28&color=007ACC&pause=1000" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Still student already builder &center=true&size=28&color=007ACC&pause=1000" alt="Typing Animation" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Ayush Priyadarshi</h1>
