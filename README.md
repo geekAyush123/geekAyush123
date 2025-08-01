@@ -75,7 +75,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" width="40" height="40" alt="Scikit-learn"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="TensorFlow"/>
-  <img src="https://avatars.githubusercontent.com/u/104967969?s=200&v=4" width="40" height="40" alt="LangChain"/>
+  <img src="https://newrelic.com/sites/default/files/styles/medium/public/quickstarts/images/icons/langchain--logo.png?itok=JPlfUXXw" width="40" height="40" alt="LangChain"/>
   <img src="https://avatars.githubusercontent.com/u/64777509?s=200&v=4" width="40" height="40" alt="Gradio"/>
   <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="40" height="40" alt="Streamlit"/>
   <img src="https://miro.medium.com/v2/da:true/resize:fit:528/0*5Hubk4Nwe7BdQS2D" width="40" height="40" alt="MLflow"/>
