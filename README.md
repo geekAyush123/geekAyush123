@@ -78,7 +78,7 @@
   <img src="https://avatars.githubusercontent.com/u/104967969?s=200&v=4" width="40" height="40" alt="LangChain"/>
   <img src="https://avatars.githubusercontent.com/u/64777509?s=200&v=4" width="40" height="40" alt="Gradio"/>
   <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="40" height="40" alt="Streamlit"/>
-  <img src="https://mlflow.org/images/MLflow-logo-final-black.png" width="40" height="40" alt="MLflow"/>
+  <img src="https://miro.medium.com/v2/da:true/resize:fit:528/0*5Hubk4Nwe7BdQS2D" width="40" height="40" alt="MLflow"/>
   <img src="https://wandb.ai/favicon.ico" width="40" height="40" alt="Weights & Biases"/>
 
   <!-- Utilities -->
