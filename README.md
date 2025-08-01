@@ -68,7 +68,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis"/>
   <img src="https://github.com/arangodb/arangodb/raw/devel/Documentation/Images/arangodb-logo.png" width="40" height="40" alt="ArangoDB"/>
-  <img src="https://avatars.githubusercontent.com/u/125786763?s=200&v=4" width="40" height="40" alt="ChromaDB"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1044/1*d2XUNgrLw7687CDfXx9-Dw.png" width="40" height="40" alt="ChromaDB"/>
 
   <!-- AI/ML & MLOps -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
