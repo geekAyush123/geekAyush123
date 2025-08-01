@@ -67,7 +67,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="SQL"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis"/>
-  <img src="https://seeklogo.com/images/A/arangoDB-logo-7B15389C1D-seeklogo.com.png" width="40" height="40" alt="ArangoDB"/>
+  <img src="https://images.app.goo.gl/H6u3dDjRi1j9gWH37" width="40" height="40" alt="ArangoDB"/>
   <img src="https://avatars.githubusercontent.com/u/125786763?s=200&v=4" width="40" height="40" alt="ChromaDB"/>
 
   <!-- AI/ML & MLOps -->
