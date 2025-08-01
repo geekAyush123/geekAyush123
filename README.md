@@ -1,9 +1,14 @@
 <!-- Section: Header with Typing Animation -->
  <!-- Section: Header with Typing Animation -->
+<!-- Eye Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/matcornic/animated-svg-eyes/master/eyes.svg" width="150px" alt="Eye Animation" />
+</p>
+
+<!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello%20World%21%20I%27m%20Ayush%20Priyadarshi;Building%20Dreams%20with%20Code%20%F0%9F%92%BB;Passionate%20about%20AI%20%26%20Full%20Stack;Let%27s%20Connect%21%20%F0%9F%91%8B&center=true&size=32&color=000080&pause=1000" alt="Typing Animation" />
 </p>
-
 
 
 
