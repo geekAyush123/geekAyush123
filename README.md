@@ -76,15 +76,12 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" width="40" height="40" alt="Scikit-learn"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="TensorFlow"/>
  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain_logo_square.png" width="40" height="40" alt="LangChain"/>
-<img src="https://gradio.app/assets/img/logo.svg" width="40" height="40" alt="Gradio"/>
 <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="40" height="40" alt="Streamlit"/>
-<img src="https://www.mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" width="40" height="40" alt="MLflow"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Weights_-_Biases_logo.svg" width="40" height="40" alt="Weights & Biases"/>
+
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" height="40" alt="Postman"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="40" height="40" alt="Figma"/>
-<img src="https://www.drawio.com/assets/images/drawio-logo-1x.png" width="40" height="40" alt="draw.io"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/55/LaTeX_project_logo_bird.svg" width="40" height="40" alt="LaTeX"/>
+
 </p>
 
 ---
