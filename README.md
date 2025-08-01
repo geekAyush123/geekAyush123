@@ -1,16 +1,12 @@
-<!-- Section: Header with Typing Animation -->
- <!-- Section: Header with Typing Animation -->
-<!-- Eye Animation -->
+<!-- Eye Opening Animation (GIF) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/matcornic/animated-svg-eyes/master/eyes.svg" width="150px" alt="Eye Animation" />
+  <img src="https://media.giphy.com/media/xT9IglzE5zO72OtkcM/giphy.gif" width="120px" alt="Eye Opening" />
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello%20World%21%20I%27m%20Ayush%20Priyadarshi;Building%20Dreams%20with%20Code%20%F0%9F%92%BB;Passionate%20about%20AI%20%26%20Full%20Stack;Let%27s%20Connect%21%20%F0%9F%91%8B&center=true&size=32&color=000080&pause=1000" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello%20World!%20I'm%20Ayush%20Priyadarshi;Building%20Dreams%20with%20Code%20💻;Passionate%20about%20AI%20%26%20Full%20Stack;Let's%20Connect!%20👋&center=true&size=32&color=000080&pause=1000" alt="Typing Animation" />
 </p>
-
-
 
 <!-- Section: Introduction & About Me -->
 <h1 align="center">🌟 Ayush Priyadarshi 🌟</h1>
