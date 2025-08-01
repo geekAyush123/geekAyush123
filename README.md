@@ -1,8 +1,7 @@
 <!-- Eye Opening Animation (GIF) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IglzE5zO72OtkcM/giphy.gif" width="120px" alt="Eye Opening" />
+  <img src="https://i.imgur.com/yRR1zR3.gif" width="120px" alt="Eye Animation" />
 </p>
-
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20%F0%9F%91%8B%2C%20I'm%20Ayush%20Priyadarshi;Full%20Stack%20%26%20AI/ML%20Enthusiast;Exploring%20tech%20to%20build%20impactful%20solutions&center=true&size=28&color=007ACC&pause=1000" alt="Typing Animation" />
