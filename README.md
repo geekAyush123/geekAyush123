@@ -1,6 +1,6 @@
 <!-- Eye Opening Animation (GIF) -->
 <p align="center">
-  <img src="https://images.app.goo.gl/Yuyu4ufd7uSVztoL7" width="120px" alt="Eye Opening" />
+  <img src="https://media.giphy.com/media/xT9IglzE5zO72OtkcM/giphy.gif" width="120px" alt="Eye Opening" />
 </p>
 
 <!-- Typing Animation -->
