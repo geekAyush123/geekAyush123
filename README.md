@@ -1,6 +1,6 @@
 <!-- Typing animation banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there!+I'm+Ayush+Priyadarshi;Full+Stack+%26+AI+Enthusiast;Always+Learning+New+Things!&center=true&size=24&color=58A6FF&pause=1000" />
+  <img src="https://readme-typing-svg.demolab.com/?lines= Hey+there!+I'm+Ayush+Priyadarshi;Full+Stack+%26+AI+Enthusiast;Always+Learning+New+Things!&center=true&size=24&color=58A6FF&pause=1000" />
 </p>
 
 <h1 align="center">🌟 Welcome to My GitHub! I'm Ayush Priyadarshi</h1>
