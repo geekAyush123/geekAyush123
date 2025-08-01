@@ -60,14 +60,14 @@
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40" alt="Azure"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase"/>
   <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" width="40" height="40" alt="Docker"/>
-  <img src="https://github.com/github.png" width="40" height="40" alt="GitHub Actions"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
 
   <!-- Databases -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="SQL"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis"/>
-  <img src="https://images.app.goo.gl/H6u3dDjRi1j9gWH37" width="40" height="40" alt="ArangoDB"/>
+  <img src="https://github.com/arangodb/arangodb/raw/devel/Documentation/Images/arangodb-logo.png" width="40" height="40" alt="ArangoDB"/>
   <img src="https://avatars.githubusercontent.com/u/125786763?s=200&v=4" width="40" height="40" alt="ChromaDB"/>
 
   <!-- AI/ML & MLOps -->
@@ -78,7 +78,7 @@
   <img src="https://avatars.githubusercontent.com/u/104967969?s=200&v=4" width="40" height="40" alt="LangChain"/>
   <img src="https://avatars.githubusercontent.com/u/64777509?s=200&v=4" width="40" height="40" alt="Gradio"/>
   <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="40" height="40" alt="Streamlit"/>
-  <img src="https://images.app.goo.gl/eAu5upjrarEu8mvQ6" width="40" height="40" alt="MLflow"/>
+  <img src="https://mlflow.org/images/MLflow-logo-final-black.png" width="40" height="40" alt="MLflow"/>
   <img src="https://wandb.ai/favicon.ico" width="40" height="40" alt="Weights & Biases"/>
 
   <!-- Utilities -->
