@@ -2,10 +2,8 @@
 <p align="center">
   <img src="https://i.imgur.com/XUrPife.gif" width="120px" alt="Eye Animation" />
 </p>
-
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=%20Still%20student%20already%20builder&center=true&size=28&color=007ACC&pause=1000" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Still%20student%20already%20builder&center=true&size=20&color=007ACC&pause=1000" alt="Typing Animation" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Ayush Priyadarshi</h1>
